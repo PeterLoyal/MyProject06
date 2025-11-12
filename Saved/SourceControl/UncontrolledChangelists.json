@@ -15,7 +15,19 @@
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset",
 				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BP_Pawn.uasset",
 				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/U6/LXVN2V9UTPA02TPU1SNRSC.uasset",
-				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/BH/I2SN2QR3TFS2JOSE10IJF9.uasset"
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/BH/I2SN2QR3TFS2JOSE10IJF9.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BallPhysicalMaterial.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/StaticMeshes/SM_Field_003.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BP_PlayerController.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/IA_InputMapping.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/IA_Move.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/IA_Rotate.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BP_Ball_V2.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BP_Pawn_Keyboard.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/06/823X3AABO8HBJJ4P40GJCR.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/StaticMeshes/Feet_Collision_V1.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject06/Content/Campo_Prototipo_Small/BP_Pawn1.uasset"
 			]
 		}
 	]
